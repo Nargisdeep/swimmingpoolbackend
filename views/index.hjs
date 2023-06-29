@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome To Our Team{{adminname}}</title>
+</head>
+<body> 
+
+  <h4>We Heartily Welcome {{adminname}} To Our Team As a Admin</h4>
+  <img src="https://www.desicomments.com/dc4/01/464377/4643771.jpg">
+  <h2>CONGRATULATIONS!</h2>
+  <p>We are Really Excited To Work with you and Enjoy Your Services To GoSwim Community</p>
+  <h4>Our Expectations:</h4>
+  <p>We expect you to be a valuable possession to our small Family and expect you to help us grow more and more</p>
+  <ul>
+    <li><b>Your User Name:{{adminusername}}</b></li>
+  </ul>
+</body>
+</html>
